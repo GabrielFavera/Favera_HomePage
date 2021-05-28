@@ -11,8 +11,6 @@ My first job totally done in flutter, done to bring all my work together in just
 
 Show my projects made in Flutter and my social networks.
 
-On the Media 🤩: A review about this app (pt-BR 🇧🇷).
-
 ## Why?
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
