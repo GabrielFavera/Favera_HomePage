@@ -1,16 +1,31 @@
-# gabrielwed
+# DellaFávera_Home_Page
 
-A new Flutter project.
+![alt text](https://imgpile.com/images/NI3Buc.jpg)
 
-## Getting Started
+## About this Project
 
-This project is a starting point for a Flutter application.
+My first job totally done in flutter, done to bring all my work together in just one place.
 
-A few resources to get you started if this is your first Flutter project:
+## The idea of the App is:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Show my projects made in Flutter and my social networks.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+On the Media 🤩: A review about this app (pt-BR 🇧🇷).
+
+## Why?
+This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
+
+Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
+
+It's free!
+
+You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
+
+Email-me: gabrielfavera@live.com
+
+Connect with me at LinkedIn
+
+Thank you!
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
