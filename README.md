@@ -1,7 +1,6 @@
 # DellaFávera_Home_Page
 
-![alt text](https://imgpile.com/images/NI3Buc.jpg)
-![alt text](https://imgpile.com/images/NI3Zfo.jpg)
+![alt text](https://gifs.com/gif/tela-QkW9QZ)
 
 ## About this Project
 
