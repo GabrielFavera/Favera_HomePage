@@ -1,6 +1,8 @@
 # DellaFávera_Home_Page
 
-![alt text](https://gifs.com/gif/tela-QkW9QZ)
+![alt text](https://i.imgur.com/XoQIbD3.jpg)
+
+![alt text](https://i.imgur.com/6WICMkN.jpeg)
 
 ## About this Project
 
