@@ -15,17 +15,20 @@ Show my projects made in Flutter and my social networks.
 ## Why?
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
-
 It's free!
 
-You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
+You can send how many codes do you want, I'll be glad to analyse them! And if you have any question about the project...
 
 Email-me: gabrielfavera@live.com
 
 Connect with me at LinkedIn
 
+https://www.linkedin.com/in/gabrielfavera/
+
+Website made in flutter
+
+https://gabrieldellafavera.000webhostapp.com/
+
 Thank you!
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+License This project is licensed under the MIT License - see the LICENSE.md file for details
