@@ -1,8 +1,10 @@
 # DellaFávera_Home_Page
 
-![alt text](https://i.imgur.com/XoQIbD3.jpg)
+![alt text](https://i.imgur.com/9RCE4KE.png)
 
-![alt text](https://i.imgur.com/6WICMkN.jpeg)
+## Access the project from your browser
+
+URL: https://gabriel-della-favera.web.app/ - Hosted with Firebase.
 
 ## About this Project
 
